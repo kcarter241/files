@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/kcarter/.ansible'
+let g:netrw_dirhist_2='/home/kcarter/ansible/Preservica/upgrade'
+let g:netrw_dirhist_3='/home/kcarter/ansible/playbooks/vars'
+let g:netrw_dirhist_4='/home/kcarter/ansible/roles/internal/solr/tasks'
+let g:netrw_dirhist_5='/home/kcarter/ansible/Quicksearch'
+let g:netrw_dirhist_6='/home/kcarter/ansible/Quicksearch/provisioning/roles/apache-passenger'
+let g:netrw_dirhist_7='/home/kcarter/ansible/Quicksearch/playbooks/roles/apache-passenger'
+let g:netrw_dirhist_8='/home/kcarter/ansible/Quicksearch/inventories'
